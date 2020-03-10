@@ -1,0 +1,6 @@
+C:\Users\Logatti\source\repos\Aula1\Aula1-D\bin\Debug\Aula1-D.exe.config
+C:\Users\Logatti\source\repos\Aula1\Aula1-D\bin\Debug\Aula1-D.exe
+C:\Users\Logatti\source\repos\Aula1\Aula1-D\bin\Debug\Aula1-D.pdb
+C:\Users\Logatti\source\repos\Aula1\Aula1-D\obj\Debug\Aula1-D.csprojAssemblyReference.cache
+C:\Users\Logatti\source\repos\Aula1\Aula1-D\obj\Debug\Aula1-D.exe
+C:\Users\Logatti\source\repos\Aula1\Aula1-D\obj\Debug\Aula1-D.pdb
